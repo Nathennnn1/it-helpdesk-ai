@@ -2,3 +2,5 @@
 tickets/
 __pycache__/
 practice/
+price_compare/.env
+price_compare/__pycache__/
