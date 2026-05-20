@@ -3,4 +3,7 @@ tickets/
 __pycache__/
 practice/
 price_compare/.env
-price_compare/__pycache__/
+price_compare/__pycache__/price_compare/ 
+security_logs/ 
+CLAUDE.md 
+tickets/ 
