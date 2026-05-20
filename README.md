@@ -147,3 +147,18 @@ http://127.0.0.1:8000/docs
 ## 線上 Demo
 
 部署於 Render：https://it-helpdesk-ai.onrender.com
+
+## 📸 系統截圖
+
+### 新增工單
+![新增工單頁面](screenshots/新增工單頁面.JPG)
+
+### AI 回答結果
+![AI回答結果](screenshots/AI回答結果.JPG)
+
+### 工單明細
+![工單明細頁面](screenshots/工單明細頁面.JPG)
+
+### 管理員儀表板
+![管理員儀表板v1](screenshots/管理員儀表板v1.JPG)
+![管理員儀表板v2](screenshots/管理員儀表板v2.JPG)
