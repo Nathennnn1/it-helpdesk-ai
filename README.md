@@ -93,6 +93,20 @@ streamlit run streamlit_dashboard.py
 http://127.0.0.1:8000/docs
 ```
 
+### 7. 執行單元測試
+```bash
+pip install pytest pytest-asyncio httpx
+python -m pytest test_api.py -v
+```
+
+測試涵蓋項目：
+- ✅ 正常 IT 問題回應
+- ✅ 訊息長度限制
+- ✅ 危險關鍵字過濾
+- ✅ 訊息過長拒絕
+- ✅ Prompt Injection 防禦
+- ✅ 非 IT 問題拒絕
+
 ---
 
 ## 💡 使用範例
