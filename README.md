@@ -162,6 +162,10 @@ python -m pytest test_api.py -v
 
 部署於 Render：https://it-helpdesk-ai.onrender.com
 
+後端 API：https://it-helpdesk-ai.onrender.com  
+API 文件：https://it-helpdesk-ai.onrender.com/docs  
+（前端需本地執行，參考上方安裝步驟）
+
 ## 📸 系統截圖
 
 ### 新增工單
